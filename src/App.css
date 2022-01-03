@@ -1,0 +1,113 @@
+.sidebar_height {
+  height: 667px;
+}
+.addvedio {
+  cursor: pointer;
+}
+.content_padding {
+  margin-top: 12%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.Component_main_grid {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}
+.formate_data {
+  justify-content: space-around;
+}
+
+.employment_jobdescribe {
+  border-color: silver;
+}
+.employment_jobdescribe .RichTextEditor__editor___1QqIU {
+  cursor: text;
+  font-size: 16px;
+  height: 80vh !important;
+}
+
+.employment_jobdescribee {
+  border-color: silver;
+}
+.employment_jobdescribee .RichTextEditor__editor___1QqIU {
+  cursor: text;
+  font-size: 16px;
+  height: 40vh !important;
+}
+.content_padding_component {
+  margin-top: 7%;
+}
+.color_peachart {
+  background-color: #2f9e44;
+  height: 20px;
+  width: 50px;
+}
+.color_peacharte {
+  background-color: #228be6;
+  height: 20px;
+  width: 50px;
+}
+.color_peachartee {
+  background-color: #f08c00;
+  height: 20px;
+  width: 50px;
+}
+.data_incorrect {
+  background-color: #e03131;
+  height: 20px;
+  width: 50px;
+}
+.data_unattempt {
+  background-color: #ced4da;
+  height: 20px;
+  width: 50px;
+}
+/* section pink */
+.data_perfect {
+  background-color: #cc65fe;
+  height: 20px;
+  width: 50px;
+}
+.data_wasted {
+  background-color: #ffce56;
+  height: 20px;
+  width: 50px;
+}
+.data_ovetimed {
+  background-color: #ff6384;
+  height: 20px;
+  width: 50px;
+}
+.data_confused {
+  background-color: #36a2eb;
+  height: 20px;
+  width: 50px;
+}
+
+.data_unanswered {
+  background-color: #ced4da;
+  height: 20px;
+  width: 50px;
+}
+
+.box.d-flex {
+  justify-content: center;
+}
+.d-flex.text {
+  justify-content: center;
+}
+.secton_second_piechart {
+  justify-content: space-evenly;
+  display: flex;
+}
+@media only screen and (min-width: 320px) and (max-width: 780px) {
+  .content_padding {
+    margin-top: 24%;
+    padding-left: 7%;
+    padding-right: 7%;
+  }
+}
